@@ -24,7 +24,6 @@ This project is a **Bowling Game** console application implemented in **C++**. I
 This project uses **CMake** for building the executable.
 
 ### Requirements
-- **C++17 or later**
 - **CMake 3.10 or later**
 
 ### Build Instructions
